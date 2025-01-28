@@ -30,8 +30,8 @@ Skin cancer, particularly melanoma, is among the most prevalent cancers globally
 ### Example Data Format:
 | Image ID       | Diagnosis       | Benign/Malignant |
 |----------------|-----------------|------------------|
-| img_1.jpg      | Melanocytic Nevi| Benign           |
-| img_2.jpg      | Melanoma        | Malignant        |
+| ![image](https://github.com/user-attachments/assets/10b14bdf-845c-4fd4-9a07-fcc4dddca9f9)| Melanocytic Nevi| Benign           |
+| ![image](https://github.com/user-attachments/assets/9668e464-08cc-4a5f-8d7d-b7bfac3d80bf)| Melanoma        | Malignant        |
 
 ---
 
