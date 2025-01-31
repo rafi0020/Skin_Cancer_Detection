@@ -4,7 +4,7 @@ This repository provides an implementation of a **deep convolutional neural netw
 
 ---
 
-## 📄 Research Paper
+## 📄 Corresponding Paper
 **Title**: Using Computer Vision for Skin Disease Diagnosis in Bangladesh Enhancing Interpretability and Transparency in Deep Learning Models for Skin Cancer Classification  
 **Authors**: Rafiul Islam, Jihad Khan Dipu, Mehedi Hasan Tusar, et al.   
 [Access the Paper Here](https://doi.org/10.48550/arXiv.2501.18161)
